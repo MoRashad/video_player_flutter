@@ -1,0 +1,7 @@
+#Fri Jul 08 22:57:03 EET 2022
+base.1=D\:\\flutter_projects\\video_player_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\flutter_projects\\video_player_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
