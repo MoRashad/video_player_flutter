@@ -1,7 +1,7 @@
 import 'package:better_player/better_player.dart';
 import 'package:flutter/material.dart';
 
-import 'models/video_model.dart';
+import 'package:video_player_app/models/video_model.dart';
 
 class SelectedVideoScreen extends StatefulWidget {
   final int index;
